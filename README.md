@@ -1,5 +1,4 @@
 # packer-stuff
-A place to keep hashicorp packer stuff
 
 
 To run these add the access keys on the command line.
